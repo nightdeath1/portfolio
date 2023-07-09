@@ -39,8 +39,7 @@ const About = () => {
         <p className="text-xl">
           I am excited about the opportunity to contribute my frontend
           development skills and gaming industry insights to a dynamic and
-          innovative team. Let's connect and discuss how my expertise can
-          support your organization's goals.
+          innovative team.
         </p> */}
       </div>
     </div>
